@@ -1,0 +1,15 @@
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\classINheritancePractice\ConsoleApp1\ProblemSolving\bin\Debug\net6.0\ProblemSolving.exe
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\classINheritancePractice\ConsoleApp1\ProblemSolving\bin\Debug\net6.0\ProblemSolving.deps.json
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\classINheritancePractice\ConsoleApp1\ProblemSolving\bin\Debug\net6.0\ProblemSolving.runtimeconfig.json
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\classINheritancePractice\ConsoleApp1\ProblemSolving\bin\Debug\net6.0\ProblemSolving.dll
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\classINheritancePractice\ConsoleApp1\ProblemSolving\bin\Debug\net6.0\ref\ProblemSolving.dll
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\classINheritancePractice\ConsoleApp1\ProblemSolving\bin\Debug\net6.0\ProblemSolving.pdb
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\classINheritancePractice\ConsoleApp1\ProblemSolving\obj\Debug\net6.0\ProblemSolving.csproj.AssemblyReference.cache
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\classINheritancePractice\ConsoleApp1\ProblemSolving\obj\Debug\net6.0\ProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\classINheritancePractice\ConsoleApp1\ProblemSolving\obj\Debug\net6.0\ProblemSolving.AssemblyInfoInputs.cache
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\classINheritancePractice\ConsoleApp1\ProblemSolving\obj\Debug\net6.0\ProblemSolving.AssemblyInfo.cs
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\classINheritancePractice\ConsoleApp1\ProblemSolving\obj\Debug\net6.0\ProblemSolving.csproj.CoreCompileInputs.cache
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\classINheritancePractice\ConsoleApp1\ProblemSolving\obj\Debug\net6.0\ProblemSolving.dll
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\classINheritancePractice\ConsoleApp1\ProblemSolving\obj\Debug\net6.0\ref\ProblemSolving.dll
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\classINheritancePractice\ConsoleApp1\ProblemSolving\obj\Debug\net6.0\ProblemSolving.pdb
+C:\Users\Workstation-2\OneDrive\Desktop\csharp_problemsolving\classINheritancePractice\ConsoleApp1\ProblemSolving\obj\Debug\net6.0\ProblemSolving.genruntimeconfig.cache
