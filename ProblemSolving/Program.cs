@@ -11,9 +11,10 @@ namespace ProblemSolving
 		public static void Main( string[] args )
 		{
 			//input
-			var line1 = Console.ReadLine();
+			//var line1 = Console.ReadLine();
 			///input a number
-			///var n = Convert.ToInt32(Console.Readline());
+			var n = Convert.ToInt32(Console.ReadLine());
+
 		}
 	}
 }
